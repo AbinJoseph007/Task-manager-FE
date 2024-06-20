@@ -1,0 +1,13 @@
+#bg{
+    background-image: url('https://img.freepik.com/premium-photo/3d-customer-data-management-background-image-rendered_18199-177.jpg');
+    background-size: cover;
+}
+.hero{
+    margin-top: 150px;
+    margin-left: 70px;
+}
+.hero .hero-image img {
+   max-width: 80%;
+   max-height: 80%;
+}
+    
